@@ -18,6 +18,5 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
     </html>
   )
 }
-const sample = ''
 
 export default RootLayout
