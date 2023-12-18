@@ -19,6 +19,4 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
   )
 }
 
-const sample = 'aa'
-
 export default RootLayout
