@@ -81,7 +81,7 @@ module.exports = {
   },
   overrides: [
     {
-      files: ['page.tsx', 'layout.tsx', 'tailwind.config.ts'],
+      files: ['*/app/**/page.tsx', 'layout.tsx', 'tailwind.config.ts'],
       rules: {
         'import/no-default-export': 'off',
         'import/prefer-default-export': 'error',
