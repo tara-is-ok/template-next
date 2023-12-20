@@ -15,3 +15,5 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+![スクリーンショット 2023-12-20 9 20 27](https://github.com/taraforwork/template-next/assets/136565786/db313809-d0e3-465d-8913-f395a12b2338)
