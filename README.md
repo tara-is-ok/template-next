@@ -1,4 +1,4 @@
-[Next.js + Typescript + ESLint + Prettier + Huskyの開発環境をテンプレート化したい🔫💨](https://zenn.dev/tara_is_ok/scraps/a11a5dc9872ddb)で構築したレポジトリ
+[Next.js + Typescript + ESLint + Prettier + Huskyの開発環境をテンプレート化したい🔫💨]([https://zenn.dev/tara_is_ok/scraps/a11a5dc9872ddb](https://zenn.dev/tara_is_ok/articles/75f17beaef6ee8))で構築したレポジトリ
 
 ## Getting Started
 
